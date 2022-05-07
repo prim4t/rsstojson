@@ -1,2 +1,2 @@
-- name: RSS to JSON
+  name: RSS to JSON
   uses: I-Valchev/rss-to-json@1.0.0
